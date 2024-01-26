@@ -11,4 +11,23 @@ In this investigation, we propose a solution for the author’s gender identific
 <br>
 **Proposed Solution Overview:** Gender classification of authors using LightGBM. Gathered news articles annotated with the author's gender. Utilized 80% of the dataset for training and 20% for testing. Feature extraction included 1800-character n-grams and words (2-10 characters in length). Achieved high accuracy with LightGBM's efficient leaf-wise decision trees. Employed entropy as an uncertainty measure for gender prediction, setting thresholds of 0.280 for Punjabi and 0.870 for English datasets.
 
+<br>
+
+**Citation**
+
+To cite our work, please use the following _bibtex_:
+
+```bibtex
+
+@ARTICLE{10413460,
+  author={Sarwar, Raheem and Ha, Le An and Teh, Pin Shen and Sabah, Fahad and Nawaz, Raheel and Hameed, Ibrahim A. and Hassan, Muhammad Umair},
+  journal={IEEE Access}, 
+  title={AGI-P: A Gender Identification Framework for Authorship Analysis Using Customized Fine-Tuning of Multilingual Language Model}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Task analysis;Feature extraction;Adaptation models;Object recognition;Linguistics;Forensics;Computational modeling;Gender issues;Authoring systems;Machine learning;Natural language processing;Business analytics;gender identification;language models;tourism industry},
+  doi={10.1109/ACCESS.2024.3358199}}
+```
 
