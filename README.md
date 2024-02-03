@@ -19,15 +19,12 @@ To cite our work, please use the following _bibtex_:
 
 ```bibtex
 
-@ARTICLE{10413460,
-  author={Sarwar, Raheem and Ha, Le An and Teh, Pin Shen and Sabah, Fahad and Nawaz, Raheel and Hameed, Ibrahim A. and Hassan, Muhammad Umair},
-  journal={IEEE Access}, 
-  title={AGI-P: A Gender Identification Framework for Authorship Analysis Using Customized Fine-Tuning of Multilingual Language Model}, 
+@article{sarwar2024agi,
+  title={AGI-P: A Gender Identification Framework for Authorship Analysis Using Customized Fine-Tuning of Multilingual Language Model},
+  author={Sarwar, Raheem and Teh, Pin Shen and Sabah, Fahad and Nawaz, Raheel and Hameed, Ibrahim A and Hassan, Muhammad Umair and others},
+  journal={IEEE Access},
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Task analysis;Feature extraction;Adaptation models;Object recognition;Linguistics;Forensics;Computational modeling;Gender issues;Authoring systems;Machine learning;Natural language processing;Business analytics;gender identification;language models;tourism industry},
-  doi={10.1109/ACCESS.2024.3358199}}
+  publisher={IEEE}
+}
 ```
 
